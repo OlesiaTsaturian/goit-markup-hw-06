@@ -1312,7 +1312,7 @@ address {
   gap: 40px;
   padding-bottom: 40px;
 }
-.is-active {
+.is-open {
   opacity: 1;
   pointer-events: auto;
 }
